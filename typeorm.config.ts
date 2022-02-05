@@ -10,4 +10,5 @@ export const typeOrmConfig:TypeOrmModuleOptions = {
     database: "test_db",
     synchronize: true,
     entities: [User],
+    
 }; 

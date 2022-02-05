@@ -12,5 +12,6 @@
     ],
     "cli": {
        "migrationDir": "src/db/migration"
-    }
+    },
+    "outDir": "./dist"
 }
